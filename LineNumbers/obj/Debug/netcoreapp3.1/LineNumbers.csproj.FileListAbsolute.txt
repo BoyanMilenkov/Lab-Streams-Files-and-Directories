@@ -1,0 +1,14 @@
+E:\BOBO\C#\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.exe
+E:\BOBO\C#\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.deps.json
+E:\BOBO\C#\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.json
+E:\BOBO\C#\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.dev.json
+E:\BOBO\C#\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.dll
+E:\BOBO\C#\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.pdb
+E:\BOBO\C#\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csproj.AssemblyReference.cache
+E:\BOBO\C#\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\BOBO\C#\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfoInputs.cache
+E:\BOBO\C#\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfo.cs
+E:\BOBO\C#\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csproj.CoreCompileInputs.cache
+E:\BOBO\C#\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.dll
+E:\BOBO\C#\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.pdb
+E:\BOBO\C#\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.genruntimeconfig.cache
