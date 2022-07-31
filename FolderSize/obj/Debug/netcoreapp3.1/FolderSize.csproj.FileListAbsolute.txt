@@ -1,0 +1,14 @@
+E:\BOBO\C#\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.exe
+E:\BOBO\C#\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.deps.json
+E:\BOBO\C#\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.runtimeconfig.json
+E:\BOBO\C#\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.runtimeconfig.dev.json
+E:\BOBO\C#\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.dll
+E:\BOBO\C#\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.pdb
+E:\BOBO\C#\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.csproj.AssemblyReference.cache
+E:\BOBO\C#\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.GeneratedMSBuildEditorConfig.editorconfig
+E:\BOBO\C#\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.AssemblyInfoInputs.cache
+E:\BOBO\C#\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.AssemblyInfo.cs
+E:\BOBO\C#\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.csproj.CoreCompileInputs.cache
+E:\BOBO\C#\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.dll
+E:\BOBO\C#\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.pdb
+E:\BOBO\C#\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.genruntimeconfig.cache
