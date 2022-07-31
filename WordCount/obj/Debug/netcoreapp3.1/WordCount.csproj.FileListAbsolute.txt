@@ -1,0 +1,13 @@
+E:\BOBO\C#\WordCount\bin\Debug\netcoreapp3.1\WordCount.exe
+E:\BOBO\C#\WordCount\bin\Debug\netcoreapp3.1\WordCount.deps.json
+E:\BOBO\C#\WordCount\bin\Debug\netcoreapp3.1\WordCount.runtimeconfig.json
+E:\BOBO\C#\WordCount\bin\Debug\netcoreapp3.1\WordCount.runtimeconfig.dev.json
+E:\BOBO\C#\WordCount\bin\Debug\netcoreapp3.1\WordCount.dll
+E:\BOBO\C#\WordCount\bin\Debug\netcoreapp3.1\WordCount.pdb
+E:\BOBO\C#\WordCount\obj\Debug\netcoreapp3.1\WordCount.GeneratedMSBuildEditorConfig.editorconfig
+E:\BOBO\C#\WordCount\obj\Debug\netcoreapp3.1\WordCount.AssemblyInfoInputs.cache
+E:\BOBO\C#\WordCount\obj\Debug\netcoreapp3.1\WordCount.AssemblyInfo.cs
+E:\BOBO\C#\WordCount\obj\Debug\netcoreapp3.1\WordCount.csproj.CoreCompileInputs.cache
+E:\BOBO\C#\WordCount\obj\Debug\netcoreapp3.1\WordCount.dll
+E:\BOBO\C#\WordCount\obj\Debug\netcoreapp3.1\WordCount.pdb
+E:\BOBO\C#\WordCount\obj\Debug\netcoreapp3.1\WordCount.genruntimeconfig.cache
