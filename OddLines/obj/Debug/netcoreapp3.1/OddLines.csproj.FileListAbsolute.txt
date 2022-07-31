@@ -1,0 +1,14 @@
+E:\BOBO\C#\OddLines\bin\Debug\netcoreapp3.1\OddLines.exe
+E:\BOBO\C#\OddLines\bin\Debug\netcoreapp3.1\OddLines.deps.json
+E:\BOBO\C#\OddLines\bin\Debug\netcoreapp3.1\OddLines.runtimeconfig.json
+E:\BOBO\C#\OddLines\bin\Debug\netcoreapp3.1\OddLines.runtimeconfig.dev.json
+E:\BOBO\C#\OddLines\bin\Debug\netcoreapp3.1\OddLines.dll
+E:\BOBO\C#\OddLines\bin\Debug\netcoreapp3.1\OddLines.pdb
+E:\BOBO\C#\OddLines\obj\Debug\netcoreapp3.1\OddLines.csproj.AssemblyReference.cache
+E:\BOBO\C#\OddLines\obj\Debug\netcoreapp3.1\OddLines.GeneratedMSBuildEditorConfig.editorconfig
+E:\BOBO\C#\OddLines\obj\Debug\netcoreapp3.1\OddLines.AssemblyInfoInputs.cache
+E:\BOBO\C#\OddLines\obj\Debug\netcoreapp3.1\OddLines.AssemblyInfo.cs
+E:\BOBO\C#\OddLines\obj\Debug\netcoreapp3.1\OddLines.csproj.CoreCompileInputs.cache
+E:\BOBO\C#\OddLines\obj\Debug\netcoreapp3.1\OddLines.dll
+E:\BOBO\C#\OddLines\obj\Debug\netcoreapp3.1\OddLines.pdb
+E:\BOBO\C#\OddLines\obj\Debug\netcoreapp3.1\OddLines.genruntimeconfig.cache
