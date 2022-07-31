@@ -1,0 +1,14 @@
+E:\BOBO\C#\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.exe
+E:\BOBO\C#\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.deps.json
+E:\BOBO\C#\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.runtimeconfig.json
+E:\BOBO\C#\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.runtimeconfig.dev.json
+E:\BOBO\C#\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.dll
+E:\BOBO\C#\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.pdb
+E:\BOBO\C#\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.csproj.AssemblyReference.cache
+E:\BOBO\C#\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.GeneratedMSBuildEditorConfig.editorconfig
+E:\BOBO\C#\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.AssemblyInfoInputs.cache
+E:\BOBO\C#\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.AssemblyInfo.cs
+E:\BOBO\C#\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.csproj.CoreCompileInputs.cache
+E:\BOBO\C#\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.dll
+E:\BOBO\C#\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.pdb
+E:\BOBO\C#\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.genruntimeconfig.cache
